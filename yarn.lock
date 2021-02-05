@@ -1092,10 +1092,10 @@ domain-browser@^1.1.1:
   resolved "https://registry.yarnpkg.com/domain-browser/-/domain-browser-1.2.0.tgz#3d31f50191a6749dd1375a7f522e823d42e54eda"
   integrity sha512-jnjyiM6eRyZl2H+W8Q/zLMA481hzi0eszAaBUzIVnmYVDBbnLxVNnfu1HgEBvCbL+71FrxMl3E6lpKH7Ge3OXA==
 
-dotty@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/dotty/-/dotty-0.0.2.tgz#e1de8d46267b62fade12b5b58c21ca514c4a7aa1"
-  integrity sha1-4d6NRiZ7YvreErW1jCHKUUxKeqE=
+dotty@0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/dotty/-/dotty-0.1.1.tgz#2871f6712749c014079b5837c7c8e8bf3aca1fea"
+  integrity sha512-t6qr6vUPhYwE6t5+5vtk/1UQiAMzmgSUWxXK+oxPIhGy1w3cO15zbdSe9VMH/MMd0tqQuYiewoOG/BfwwU3QLA==
 
 dox@^0.9.0:
   version "0.9.0"

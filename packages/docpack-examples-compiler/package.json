@@ -10,7 +10,7 @@
   "dependencies": {
     "bluebird": "^3.4.0",
     "docpack": "^1.0.0",
-    "dotty": "0.0.2",
+    "dotty": "0.1.1",
     "loader-utils": "^0.2.0",
     "merge-options": "^1.0.1",
     "webpack-toolkit": "^1.0.0"
